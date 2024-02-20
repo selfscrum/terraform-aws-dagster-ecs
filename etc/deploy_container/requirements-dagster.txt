@@ -1,0 +1,8 @@
+dagster
+dagster-aws
+dagster-postgres
+dagster-dbt
+dbt-postgres
+boto3
+botocore
+dbt-core>=1.4.0
