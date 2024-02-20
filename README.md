@@ -3,8 +3,6 @@
 Untested code! I quickly made a copy of an existing project to get collaboration running, had to remove some ip-sensitive information, and couldn't spend too much time on this here. Merge requests highly welcome. This is a work in progress.
 The sidecar container idea is not yet fully implemented. It was inspired (and the S3 code was copied) from the [datarootsio/terraform-aws-ecs-dagster](https://github.com/datarootsio/terraform-aws-ecs-dagster) project. Use at your own risk ;)
 
-![use cases](./dagster-use-cases.png)
-
 # Build the System
 
 ## Prepare the Development Environment
